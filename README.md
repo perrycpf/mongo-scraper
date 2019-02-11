@@ -11,7 +11,7 @@ Uses Cheerio to scrape news articles from a site and allows the user to add note
 
 ## Screen Shots
 
-![Screen shot](public/images/screenshot.jpg)
+![Screen shot](public/assets/images/screenshot.jpg)
 Scraped news articles from http://www.echojs.com
 
 ## Technologies used
